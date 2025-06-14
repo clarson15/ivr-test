@@ -1,2 +1,4 @@
 .env
 deploy.sh
+node_modules
+app.log
